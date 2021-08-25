@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49328273049",
+    "project_id": "fluttershoppingapp-37e91",
+    "storage_bucket": "fluttershoppingapp-37e91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49328273049:android:7eb4b1bc74113be7fb6a08",
+        "android_client_info": {
+          "package_name": "com.Vivian.ShoppingApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49328273049-9aic0457gaembo4vop7f6cj09htnriuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoX9v3YYqYFypyPZPm1PxM3ghJLef8Dig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49328273049-9aic0457gaembo4vop7f6cj09htnriuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
